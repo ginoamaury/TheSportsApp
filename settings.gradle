@@ -1,0 +1,4 @@
+include ':framework'
+include ':domain'
+include ':app'
+rootProject.name = "TheSportsApp"

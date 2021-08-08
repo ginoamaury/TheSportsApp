@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_spanish"
+        android:enabled="true"
+        android:icon="@drawable/ic_spain"
+        android:title="Spanish La Liga"/>
+    <item
+        android:id="@+id/menu_premier_league"
+        android:enabled="true"
+        android:icon="@drawable/ic_english"
+        android:title="English Premier League"/>
+
+    <item
+        android:id="@+id/menu_italian_seriea"
+        android:enabled="true"
+        android:icon="@drawable/ic_italy"
+        android:title="Italian Serie A"/>
+</menu>

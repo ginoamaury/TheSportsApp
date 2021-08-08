@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TheSportsApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- PREFERENCES -->
+    <string name="noData">noData</string>
+    <string name="dataSesion">dataSesion</string>
+    <string name="passwordSesion">passwordSesion</string>
+
+    <string name="errConnect">You have no internet connection</string>
+
+    <!-- TABS VIEW PAGER -->
+    <string name="viewPagerTeams">Teams</string>
+    <string name="viewPagerInfo">Information</string>
+    <string name="viewPagerEvents">Events</string>
+
+
+    <string name="summary">Summary</string>
+    <string name="jersey">Jersey</string>
+    <string name="statium">Stadium</string>
+
+
+    <string name="next5Events">Next 5 events of the team</string>
+
+    <string name="errTeams">Upss!We didnt find teams</string>
+
+    <!-- FAV -->
+    <string name="favNotification">It is now one of your favorite shows</string>
+    <string name="favNotificationDelete">It has been removed from your favorites</string>
+    <string name="favErr">Upss! An error has occurred</string>
+    <string name="favTitle">Your Favorites</string>
+</resources>
